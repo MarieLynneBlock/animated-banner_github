@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Ansible",
+    "src": "assets/icons/ansible.png",
+    "type": "png"
+  },
+  {
+    "name": "Aws",
+    "src": "assets/icons/aws.png",
+    "type": "png"
+  },
+  {
+    "name": "Code",
+    "src": "assets/icons/code.png",
+    "type": "png"
+  },
+  {
+    "name": "Debian",
+    "src": "assets/icons/debian.png",
+    "type": "png"
+  },
+  {
+    "name": "Github",
+    "src": "assets/icons/github.png",
+    "type": "png"
+  },
+  {
+    "name": "Grafana",
+    "src": "assets/icons/grafana.png",
+    "type": "png"
+  },
+  {
+    "name": "Icons8 джанго 48",
+    "src": "assets/icons/icons8-джанго-48.png",
+    "type": "png"
+  },
+  {
+    "name": "Jenkins",
+    "src": "assets/icons/jenkins.png",
+    "type": "png"
+  },
+  {
+    "name": "K8s",
+    "src": "assets/icons/k8s.png",
+    "type": "png"
+  },
+  {
+    "name": "Linux",
+    "src": "assets/icons/linux.png",
+    "type": "png"
+  },
+  {
+    "name": "Logstash",
+    "src": "assets/icons/logstash.png",
+    "type": "png"
+  },
+  {
+    "name": "Prometheus",
+    "src": "assets/icons/prometheus.png",
+    "type": "png"
+  },
+  {
+    "name": "Pycharm",
+    "src": "assets/icons/pycharm.png",
+    "type": "png"
+  },
+  {
+    "name": "Python",
+    "src": "assets/icons/python.png",
+    "type": "png"
+  },
+  {
+    "name": "Terraform",
+    "src": "assets/icons/terraform.png",
+    "type": "png"
+  },
+  {
+    "name": "Ubuntu",
+    "src": "assets/icons/ubuntu.png",
+    "type": "png"
+  },
+  {
+    "name": "Zabbix",
+    "src": "assets/icons/zabbix.png",
+    "type": "png"
+  }
+]

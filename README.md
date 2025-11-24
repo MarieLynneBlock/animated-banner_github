@@ -55,8 +55,21 @@ To get started with this project, follow these steps:
 You can easily customise the banner to suit your preferences:
 
 - **Update the bio**: Modify the text in the `.bio` section in the `index.html` file to reflect your name and expertise.
-- **Change the code keywords**: Update the `keywords` array in `script.js` to include your preferred terms or technologies.
+- **Add icons**: Simply place PNG or SVG files in the `assets/icons/` folder and run `./generate-icons.sh` to update the icon list. The banner will automatically use all icons from this folder.
 - **Adjust animation settings**: Tweak the animation duration, delay, and other settings in the CSS and JavaScript files to achieve the desired effect.
+
+### Adding Icons
+
+To add new icons to the banner:
+
+1. Place your icon file (PNG, SVG, JPG, or JPEG) in the `assets/icons/` folder
+2. Run the icon generator script:
+   ```bash
+   ./generate-icons.sh
+   ```
+3. Refresh your browser - the new icons will appear automatically!
+
+The script automatically scans the `assets/icons/` folder and generates a list of all available icons. No need to edit any code!
 
 ## Contributing
 Contributions are welcome! If you have any ideas to improve the project or find any issues, please open a pull request or issue on GitHub. Let's make this project even more awesome together!
